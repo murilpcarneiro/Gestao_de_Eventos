@@ -47,7 +47,7 @@ Menu:
 5-Gerar relatório de eventos:  
 	  -Com o uso do CSV, o usuário vai informar o nome do arquivo CSV para ser criado para mostrar as informações do evento.  
 	  -Informações: Nome, data, local, capacidade máxima e categoria.  
-    -Se houver alterações nos eventos -tais como: pessoas inscritas, nome do evento e etc- depois de ter gerado um arquivo, tera que ser gerado de novo para atualizar as informações.  
+    -Se houver a criação de um novo evento depois de ter gerado um arquivo, tera que ser gerado de novo para atualizar as informações.  
 
 		
 6-Sair:  

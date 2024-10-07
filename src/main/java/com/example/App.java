@@ -35,7 +35,8 @@ public class App {
         int camarote = scanner.nextInt();
         System.out.println("Digite a quantidade de Ingressos Pista:");
         int pista = scanner.nextInt();
-        gestor.cadastrarEvento(nome, data, local, vip, camarote, pista);
+        Eventos ev1 = new Eventos(nome, data, local, vip, camarote, pista);
+        gestor.cadastrarEvento(ev1);
       } else if (opcao == 2) {
         System.out.println("Digite o nome do evento:");
         String nome = scanner.nextLine();
