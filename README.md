@@ -1,6 +1,6 @@
-Este programa interativo permite controlar a gestão de eventos de maneira organizada, usando um sistema de menu para adicionar informações sobre os eventos e gerenciá-los com mais facilidade. Com o uso de arquivos CSV, os dados cadastrados são salvos no arquivo criado pelo usuário, permitindo acompanhar as informações de forma simples.  
+## Este programa interativo permite controlar a gestão de eventos de maneira organizada, usando um sistema de menu para adicionar informações sobre os eventos e gerenciá-los com mais facilidade. Com o uso de arquivos CSV, os dados cadastrados são salvos no arquivo criado pelo usuário, permitindo acompanhar as informações de forma simples.  
 
-Menu:  
+## Menu:  
 
   1-Cadastrar evento:  
   2-Inscrever participante:  
@@ -10,7 +10,7 @@ Menu:
   6-Sair:  
 
 
-1-Selecionar evento:  
+## 1-Selecionar evento:  
 	  -Digitar o nome do evento:  
 		Usuário vai inserir o nome do evento.  
 	  -Digite a data do evento:  
@@ -26,25 +26,25 @@ Menu:
     -Se já tiver 10 eventos(Limite de eventos atingido.)  
 
 
-2-Inscrever participante:  
+## 2-Inscrever participante:  
 	  -Digite o nome do evento:  
 		Usuário vai digitar o nome do evento.  
 	  -Se a inscrição for feita(Inscrição realizada com sucesso!)  
 	  -Se não (Evento lotado ou não encontrado.)  
 	
 
-3-Buscar evento:  
+## 3-Buscar evento:  
 	  -Digite o nome do evento:  
 		Usuário vai digitar o nome do evento.  
     -Caso encontrado(nome do evento, local do evento, data do evento, vagas disponiveis)  
 	  -Caso não encontrado(Evento não encontrado.)  
 
 
-4-Listar eventos:  
+## 4-Listar eventos:  
  	  -Ira mostrar os eventos cadastrados e seus dados: nome do evento, local do evento, data do evento, vagas disponiveis.
     
 
-5-Gerar relatório de eventos:  
+## 5-Gerar relatório de eventos:  
 	  -Com o uso do CSV, o usuário vai informar o nome do arquivo CSV para ser criado para mostrar as informações do evento.  
 	  -Informações: Nome, data, local, capacidade máxima e categoria.  
     -Se houver a criação de um novo evento depois de ter gerado um arquivo, tera que ser gerado de novo para atualizar as informações.  
