@@ -16,8 +16,12 @@ public class GestorEventos {
   }
 
   public void cadastrarEvento(String nome, String data, String local, int vip, int camarote, int pista) {
-    eventos.add(new Eventos(nome, data, local, vip, camarote, pista));
-    quantidadeEventos++;
+    if (quantidadeEventos < 10) {
+      eventos.add(new Eventos(nome, data, local, vip, camarote, pista));
+      quantidadeEventos++;
+    } else {
+      System.out.println("Limite de eventos atingido.");
+    }
   }
 
   public void listarEventos() {
