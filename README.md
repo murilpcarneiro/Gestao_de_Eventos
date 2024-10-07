@@ -10,7 +10,7 @@ Menu:
   6-Sair(6):
 
 
-	1-Selecionar evento:
+1-Selecionar evento:
 	  -Digitar o nome do evento:
 		Usuário vai inserir o nome do evento.
 	  -Digite a data do evento:
@@ -23,27 +23,27 @@ Menu:
 		Usuário vai inserir a capacidade máxima do evento.
 
 
-	2-Inscrever participante:
+2-Inscrever participante:
 	  -Digite o nome do evento:
 		Usuário vai digitar o nome do evento.
 	  -Se a inscrição for feita(Inscrição realizada com sucesso!)
 	  -Se não (Evento lotado ou não encontrado.)
 	
 
-	3-Buscar evento:
+3-Buscar evento:
 	  -Digite o nome do evento:
 		Usuário vai digitar o nome do evento.
 	  -Caso não encontrado(Evento não encontrado.)
 
 
-	4-Listar eventos:
+4-Listar eventos:
  	  -Ira mostrar os eventos cadastrados
 
 
-	5-Gerar relatório de eventos:
+5-Gerar relatório de eventos:
 	  -Com o uso do CSV, o usuário vai informar o nome do arquivo CSV criado para mostrar as informações do evento.
 	  -Informações: Nome, data, local, capacidade máxima e categoria.  
 
 		
-	6-Sair:
+6-Sair:
 	  -Para sair do programa digite "6".
