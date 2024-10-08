@@ -52,3 +52,15 @@
 		
 ## 6-Sair:  
 	  -Para sair do programa digite "6".  
+# Equipe:
+## João Felipe Da Rocha
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jfdeev)
+
+## Murilo Pantoja Carneiro
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/murilpcarneiro)
+
+## Pedro Marques Lyra
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrolyra18)
